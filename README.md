@@ -18,7 +18,7 @@ Pré-requisitos:
 
 -Navegador padrão
 
--clicar no link do site: https://xaacke.github.io/art/
+-clicar no link do site: https://xaacke.github.io/art/ 
 
 # Autora
 
